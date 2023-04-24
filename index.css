@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imglogo {
+    width: 70%;
+    height: 100%;
+}
+.botao {
+    width: 100%;
+    height: 100%;   
+}
+
+.prod {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+    
+}
+
+.prom {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.pous {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.dici {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.even {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.quem {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+.wapp {
+    padding-left: 75%;
+    width: 25%;
+    height: 12%;  
+}
+.insta {
+    padding-left: 75%;
+    width: 25%;
+    height: 12%;  
+}

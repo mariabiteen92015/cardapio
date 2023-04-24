@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imglogo {
+    padding-top: 110%;
+    width: 70%;
+    height: 100%;
+}
+.botao {
+    width: 100%;
+    height: 100%;   
+}
+
+.imgt {
+    width: 100%;
+    height: 100%; 
+}
+.imgti {
+    padding-top: 12%;
+    width: 100%;
+    height: 100%; 
+}
+.imgtir {
+    padding-top: 2%;
+    width: 100%;
+    height: 100%; 
+}
+
+.imgtira {
+    width: 100%;
+    height: 100%;
+}
+.voltar {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 20%;
+    height: 170%;
+    align-items: center;
+    font-size: 90%;
+}

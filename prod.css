@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imglogo {
+    width: 70%;
+    height: 100%;
+}
+.botao {
+    width: 100%;
+    height: 100%;   
+}
+
+.voltar {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 20%;
+    height: 5%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.tira {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.peix{
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.carn {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.guar {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.sobr {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.bebi {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 90%;
+}
